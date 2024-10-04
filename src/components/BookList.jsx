@@ -1,6 +1,6 @@
 
 
-const BookList = ({ books }) => (
+/*const BookList = ({ books }) => (
   <ul>
 	{books.map((book, index) => {
 	  return <li key={index}>{book.name}</li>;
@@ -8,4 +8,4 @@ const BookList = ({ books }) => (
   </ul>
 );
 
-export default BookList
+export default BookList*/
